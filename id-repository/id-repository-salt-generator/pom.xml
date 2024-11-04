@@ -57,7 +57,7 @@
 		<!-- data -->
 		<h2.version>1.4.197</h2.version>
 		<mysql.connector.version>5.1.46</mysql.connector.version>
-		<postgresql.version>42.2.2</postgresql.version>
+		<postgresql.version>42.7.4</postgresql.version>
 		<eclipselink.version>2.5.0</eclipselink.version>
 		<hibernate.version>5.2.17.Final</hibernate.version>
 		<hibernate.validator.version>6.0.12.Final</hibernate.validator.version>
@@ -162,7 +162,7 @@
 		<!-- data -->
 		<h2.version>1.4.197</h2.version>
 		<mysql.connector.version>5.1.46</mysql.connector.version>
-		<postgresql.version>42.2.2</postgresql.version>
+		<postgresql.version>42.7.4</postgresql.version>
 		<eclipselink.version>2.5.0</eclipselink.version>
 		<hibernate.version>5.2.17.Final</hibernate.version>
 		<hibernate.validator.version>6.0.12.Final</hibernate.validator.version>
@@ -227,7 +227,7 @@
 		<micrometer.registry.prometheus.version>1.4.2</micrometer.registry.prometheus.version>
 		<kernel-core.version>1.2.0.1</kernel-core.version>
 		<kernel-logger-logback.version>1.2.0.1</kernel-logger-logback.version>
-		<postgresql.version>42.2.2</postgresql.version>
+		<postgresql.version>42.7.4</postgresql.version>
 	</properties>
 	<dependencies>
 		<dependency>
