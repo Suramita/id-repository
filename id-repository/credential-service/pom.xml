@@ -18,7 +18,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
-		<spring.boot.version>2.0.2.RELEASE</spring.boot.version>
+		<spring.boot.version>3.3.7</spring.boot.version>
 		<spring.data.jpa.version>2.0.7.RELEASE</spring.data.jpa.version>
 		<spring.security.test.version>5.0.5.RELEASE</spring.security.test.version>
 		<spring-cloud-config.version>2.0.0.RELEASE</spring-cloud-config.version>
@@ -32,7 +32,7 @@
 		<kernel.cbeffutil.version>1.2.0.1</kernel.cbeffutil.version>
 		<kernel.websubclient.version>1.2.0.1</kernel.websubclient.version>
 		<io.micrometer.prometheus.version>1.4.2</io.micrometer.prometheus.version>
-		<springdoc.version>1.5.10</springdoc.version>
+		<springdoc.version>1.7.0</springdoc.version>
 	</properties>
 	<dependencyManagement>
 		<dependencies>
@@ -69,7 +69,7 @@
 		<dependency>
 			<groupId>com.fasterxml.jackson.module</groupId>
 			<artifactId>jackson-module-afterburner</artifactId>
-			<version>2.12.0</version>
+			<version>2.15.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
@@ -200,12 +200,12 @@
 		<dependency>
 			<groupId>com.fasterxml.jackson.dataformat</groupId>
 			<artifactId>jackson-dataformat-xml</artifactId>
-			<version>2.12.0</version>
+			<version>2.15.0</version>
 		</dependency>
 		<dependency>
 			<groupId>com.fasterxml.jackson.module</groupId>
 			<artifactId>jackson-module-jaxb-annotations</artifactId>
-			<version>2.12.0</version>
+			<version>2.15.0</version>
 		</dependency>
 	</dependencies>
 	<repositories>
