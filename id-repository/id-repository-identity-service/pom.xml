@@ -24,7 +24,7 @@
 		<kernel.idobjectvalidator.version>1.2.0.1</kernel.idobjectvalidator.version>
 		<kernel-idvalidator-vid.version>1.2.0.1</kernel-idvalidator-vid.version>
 		<kernel.khazana.version>1.2.0.1</kernel.khazana.version>
-		<springdoc.version>1.5.10</springdoc.version>
+		<springdoc.version>1.6.4</springdoc.version>
 	</properties>
 
 	<dependencies>
